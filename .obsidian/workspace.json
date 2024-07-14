@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "travel/foundation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "travel/foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "travel/foundation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "travel/foundation.md"
               }
             }
           },
@@ -136,8 +136,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "e62cd1e430abc0b3",
+            "type": "leaf",
+            "state": {
+              "type": "video-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,11 +161,27 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-map-view:Open map view": false
+      "obsidian-map-view:Open map view": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9cfb9116a78e875e",
+  "active": "639446f2898eaa49",
   "lastOpenFiles": [
+    "public/okinawa.gif",
+    "public/hokkaido.gif",
+    "public/tohoku.jpg",
+    "public/kyushu.png",
+    "public/shikoku.png",
+    "public/chugoku.png",
+    "public/chubu.png",
+    "public/kansai.png",
+    "public/kanto.png",
+    "travel/foundation.md",
+    "README.md",
+    "무제 폴더",
+    "journal",
+    "study",
+    "travel",
     "templates",
     "public"
   ]

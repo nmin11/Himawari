@@ -7,5 +7,7 @@
   "emoji-shortcodes",
   "slash-commander",
   "obsidian-style-settings",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-timestamp-notes",
+  "remember-cursor-position"
 ]
