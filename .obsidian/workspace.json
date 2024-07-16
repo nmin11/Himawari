@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "47075e18d6e9d9a6",
+        "id": "b36a8d5679cc8e50",
         "type": "tabs",
         "children": [
           {
-            "id": "639446f2898eaa49",
+            "id": "2926dbe66c25ecd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "travel/foundation.md",
-                "mode": "source",
+                "file": "study/공부 방법.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "travel/foundation.md",
+                "file": "study/공부 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "travel/foundation.md",
+                "file": "study/공부 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "travel/foundation.md"
+                "file": "study/공부 방법.md"
               }
             }
           },
@@ -165,8 +165,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "639446f2898eaa49",
+  "active": "2926dbe66c25ecd8",
   "lastOpenFiles": [
+    "travel/일본 여행에 대한 이해.md",
+    "study/공부 방법.md",
     "public/okinawa.gif",
     "public/hokkaido.gif",
     "public/tohoku.jpg",
@@ -176,7 +178,6 @@
     "public/chubu.png",
     "public/kansai.png",
     "public/kanto.png",
-    "travel/foundation.md",
     "README.md",
     "무제 폴더",
     "journal",
