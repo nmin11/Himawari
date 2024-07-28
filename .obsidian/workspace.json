@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "travel/맛집 찾기.md",
+                "file": "travel/kyushu/벳푸.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "travel/맛집 찾기.md",
+                "file": "travel/kyushu/벳푸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "travel/맛집 찾기.md",
+                "file": "travel/kyushu/벳푸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "travel/맛집 찾기.md"
+                "file": "travel/kyushu/벳푸.md"
               }
             }
           },
@@ -167,13 +167,15 @@
   },
   "active": "d67efec72cc2305f",
   "lastOpenFiles": [
-    "travel/kyushu/나가사키.md",
-    "travel/맛집 찾기.md",
-    "travel/kyushu/후쿠오카.md",
-    "travel/kyushu/기타큐슈.md",
+    "travel/kyushu/유후인.md",
+    "travel/kyushu/벳푸.md",
     "travel/일본 여행에 대한 이해.md",
-    "study/공부 방법.md",
     "travel/가야 할 곳들.md",
+    "travel/kyushu/후쿠오카.md",
+    "travel/kyushu/나가사키.md",
+    "travel/kyushu/기타큐슈.md",
+    "travel/맛집 찾기.md",
+    "study/공부 방법.md",
     "travel/kyushu",
     "public/okinawa.gif",
     "public/hokkaido.gif",
