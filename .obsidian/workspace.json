@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "travel/여행 일정.md",
+                "file": "travel/일본 여행에 대한 이해.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "travel/여행 일정.md",
+                "file": "travel/일본 여행에 대한 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "travel/여행 일정.md",
+                "file": "travel/일본 여행에 대한 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "travel/여행 일정.md"
+                "file": "travel/일본 여행에 대한 이해.md"
               }
             }
           },
@@ -179,9 +179,9 @@
   },
   "active": "d67efec72cc2305f",
   "lastOpenFiles": [
-    "travel/kyushu/후쿠오카.md",
     "travel/일본 여행에 대한 이해.md",
     "travel/여행 일정.md",
+    "travel/kyushu/후쿠오카.md",
     "travel/kyushu/유후인.md",
     "travel/맛집 찾기.md",
     "travel/kyushu/벳푸.md",
