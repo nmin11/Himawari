@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "travel/일본 여행에 대한 이해.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc2a2f5607a0f328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "travel/kyushu/유후인.md",
+                "file": "travel/kansai/오사카.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "travel/일본 여행에 대한 이해.md",
+                "file": "travel/kansai/오사카.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "travel/일본 여행에 대한 이해.md",
+                "file": "travel/kansai/오사카.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "travel/일본 여행에 대한 이해.md"
+                "file": "travel/kansai/오사카.md"
               }
             }
           },
@@ -180,9 +168,11 @@
   "active": "d67efec72cc2305f",
   "lastOpenFiles": [
     "travel/일본 여행에 대한 이해.md",
+    "travel/kansai/오사카.md",
+    "travel/kyushu/유후인.md",
+    "travel/kansai",
     "travel/여행 일정.md",
     "travel/kyushu/후쿠오카.md",
-    "travel/kyushu/유후인.md",
     "travel/맛집 찾기.md",
     "travel/kyushu/벳푸.md",
     "travel/kyushu/나가사키.md",
