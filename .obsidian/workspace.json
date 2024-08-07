@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "travel/NOT TODO.md",
+                "file": "travel/일본 여행에 대한 이해.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "travel/NOT TODO.md",
+                "file": "travel/일본 여행에 대한 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "travel/NOT TODO.md",
+                "file": "travel/일본 여행에 대한 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "travel/NOT TODO.md"
+                "file": "travel/일본 여행에 대한 이해.md"
               }
             }
           },
@@ -165,25 +165,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d67efec72cc2305f",
+  "active": "9cfb9116a78e875e",
   "lastOpenFiles": [
-    "travel/kyushu/후쿠오카.md",
     "travel/NOT TODO.md",
+    "travel/큐슈/후쿠오카.md",
     "travel/kansai/무제 파일.md",
-    "travel/kansai/고베.md",
-    "travel/kansai/교토.md",
-    "travel/kansai/오사카.md",
-    "travel/kansai/나라.md",
+    "travel/간사이/고베.md",
+    "travel/간사이/교토.md",
+    "travel/간사이/오사카.md",
+    "travel/간사이/나라.md",
     "travel/여행 일정.md",
     "travel/일본 여행에 대한 이해.md",
-    "travel/kyushu/유후인.md",
-    "travel/kansai",
+    "travel/큐슈/유후인.md",
+    "travel/간사이",
     "travel/맛집 찾기.md",
-    "travel/kyushu/벳푸.md",
-    "travel/kyushu/나가사키.md",
-    "travel/kyushu/기타큐슈.md",
+    "travel/큐슈/벳푸.md",
+    "travel/큐슈/나가사키.md",
+    "travel/큐슈/기타큐슈.md",
     "study/공부 방법.md",
-    "travel/kyushu",
+    "travel/큐슈",
     "public/okinawa.gif",
     "public/hokkaido.gif",
     "public/tohoku.jpg",
