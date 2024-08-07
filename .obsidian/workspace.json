@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "travel/일본 여행에 대한 이해.md",
+                "file": "travel/주고쿠/히로시마.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "travel/일본 여행에 대한 이해.md",
+                "file": "travel/주고쿠/히로시마.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "travel/일본 여행에 대한 이해.md",
+                "file": "travel/주고쿠/히로시마.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "travel/일본 여행에 대한 이해.md"
+                "file": "travel/주고쿠/히로시마.md"
               }
             }
           },
@@ -165,23 +165,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9cfb9116a78e875e",
+  "active": "d67efec72cc2305f",
   "lastOpenFiles": [
+    "travel/주고쿠/히로시마.md",
+    "travel/간사이/고베.md",
+    "travel/큐슈/기타큐슈.md",
+    "travel/간사이/오사카.md",
+    "travel/간사이/교토.md",
+    "travel/간사이/나라.md",
+    "travel/일본 여행에 대한 이해.md",
+    "travel/주고쿠",
     "travel/NOT TODO.md",
     "travel/큐슈/후쿠오카.md",
     "travel/kansai/무제 파일.md",
-    "travel/간사이/고베.md",
-    "travel/간사이/교토.md",
-    "travel/간사이/오사카.md",
-    "travel/간사이/나라.md",
     "travel/여행 일정.md",
-    "travel/일본 여행에 대한 이해.md",
     "travel/큐슈/유후인.md",
     "travel/간사이",
     "travel/맛집 찾기.md",
     "travel/큐슈/벳푸.md",
     "travel/큐슈/나가사키.md",
-    "travel/큐슈/기타큐슈.md",
     "study/공부 방법.md",
     "travel/큐슈",
     "public/okinawa.gif",
